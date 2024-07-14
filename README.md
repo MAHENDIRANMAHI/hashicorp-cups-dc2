@@ -5,3 +5,5 @@ Install Consul on Kubernetes and quickly explore service mesh features such as s
 ## Tutorial Collection URL
 
 [https://developer.hashicorp.com/consul/tutorials/get-started-kubernetes](https://developer.hashicorp.com/consul/tutorials/get-started-kubernetes)
+
+https://developer.hashicorp.com/consul/tutorials/get-started-kubernetes/kubernetes-gs-service-mesh
